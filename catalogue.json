@@ -4,5 +4,172 @@
   "hiddenIds": [
     "5DL5LWQsZiE"
   ],
-  "added": []
+  "added": [],
+  "live": {
+    "on": true,
+    "title": "Evening Mass Prayer",
+    "host": "The sanctuary",
+    "youtubeId": "sdeKX8xcaEY",
+    "detail": "Join from wherever you are. If data is thin, listen only.",
+    "when": "19:00"
+  },
+  "events": [
+    {
+      "id": "city-crusade",
+      "when": "3–5 October 2026",
+      "title": "City Crusade",
+      "place": "Open ground",
+      "detail": "Three nights. Doors at 4. The word at 6. The media desk will stream each night in full, and the altar call will not be cut to fit a replay.",
+      "featured": true
+    },
+    {
+      "id": "sunday-house",
+      "when": "Every Sunday",
+      "title": "Mass prayer and the word",
+      "place": "Sanctuary",
+      "detail": "Dawn watch, morning service, and evening mass prayer. All three are carried on Roadmap TV."
+    },
+    {
+      "id": "thursday-healing",
+      "when": "Every Thursday",
+      "title": "Healing and deliverance night",
+      "place": "Sanctuary",
+      "detail": "Teaching first, then prayer. The ministry team remains after the stream ends."
+    },
+    {
+      "id": "water-saturday",
+      "when": "First Saturday",
+      "title": "Anointing water service",
+      "place": "Lower hall",
+      "detail": "Prayer over the water, then distribution. Homes that cannot attend may ask the desk to keep a bottle."
+    },
+    {
+      "id": "partners-breakfast",
+      "when": "12 October 2026",
+      "title": "Partners' breakfast",
+      "place": "The lounge",
+      "detail": "A report on the quarter, prayer for the crusade, and one teaching that is not put on the public stream."
+    }
+  ],
+  "updates": [
+    {
+      "id": "u1",
+      "when": "22 Sep",
+      "title": "Evening prayer is the front door",
+      "body": "Until the crusade, the evening mass prayer leads the app. Sunday’s sermon is pinned beside it, not instead of it."
+    },
+    {
+      "id": "u2",
+      "when": "19 Sep",
+      "title": "A rule for the children’s prayers",
+      "body": "Healing prayer for a child is streamed wide. The media desk will not move in for a close shot. Parents may ask for the prayer to stay off the replay."
+    },
+    {
+      "id": "u3",
+      "when": "11 Sep",
+      "title": "Water service bottles",
+      "body": "If you cannot attend the first Saturday, send your name to the desk. Bottles are prayed over in the service and kept for collection."
+    }
+  ],
+  "partners": [
+    {
+      "id": "friend",
+      "name": "Friend of the house",
+      "line": "Give as you are led. Nothing in the app is locked away from you.",
+      "points": [
+        "Every live prayer and every public replay",
+        "A way to send a request to the desk",
+        "News of the clinic, the baskets, and the crusade"
+      ]
+    },
+    {
+      "id": "pillar",
+      "name": "Pillar",
+      "line": "A steady monthly gift, at a figure the church will set. An illustration, not a price: the cost of one evening’s stream.",
+      "points": [
+        "Your name carried in the partners’ prayer, if you want it carried",
+        "The monthly partners’ teaching",
+        "A note when the offering you helped carry has done its work"
+      ]
+    },
+    {
+      "id": "watchman",
+      "name": "Watchman",
+      "line": "Someone who takes a whole service, a clinic day, or a crusade night into their care.",
+      "points": [
+        "A seat at the partners’ breakfast",
+        "A direct line to partner care",
+        "The field report before it is public"
+      ]
+    }
+  ],
+  "threads": [
+    {
+      "id": "desk-1",
+      "from": "Prayer Desk",
+      "title": "We are holding Wednesday’s names",
+      "preview": "If you sent a name for healing night, it was read.",
+      "time": "Today",
+      "unread": true,
+      "body": [
+        {
+          "text": "If you sent a name for Thursday’s healing night, it was read in the room and prayed for once."
+        },
+        {
+          "text": "You do not need to send it again unless something has changed. If it has, reply here and a person will see it."
+        },
+        {
+          "text": "This preview uses sample messages. Nothing here has gone to a real desk yet."
+        }
+      ]
+    },
+    {
+      "id": "sanctuary-1",
+      "from": "Sanctuary",
+      "title": "Evening mass prayer is on air",
+      "preview": "Come in when you can. The door stays open.",
+      "time": "Now",
+      "unread": true,
+      "body": [
+        {
+          "text": "Evening mass prayer is live from the sanctuary."
+        },
+        {
+          "text": "If you only have a little data, choose Listen only. You will still be in the room."
+        }
+      ]
+    },
+    {
+      "id": "care-1",
+      "from": "Partner Care",
+      "title": "The September note is ready",
+      "preview": "A short report for people who carry this house.",
+      "time": "Sun",
+      "unread": false,
+      "body": [
+        {
+          "text": "September’s partner note is a sample in this preview: the clinic saw its Saturday patients, the education purse paid three quiet fees, and the crusade ground is confirmed."
+        },
+        {
+          "text": "In the real app, this note is written by the church, not generated as filler."
+        }
+      ]
+    },
+    {
+      "id": "events-1",
+      "from": "Events",
+      "title": "City Crusade, 3–5 October",
+      "preview": "Tell the desk if you need a seat kept.",
+      "time": "Fri",
+      "unread": false,
+      "body": [
+        {
+          "text": "The city crusade is three nights on the open ground, 3–5 October."
+        },
+        {
+          "text": "Streaming will run the full night. If you are coming in person and need a seat kept, write to the events desk."
+        }
+      ]
+    }
+  ]
 }
