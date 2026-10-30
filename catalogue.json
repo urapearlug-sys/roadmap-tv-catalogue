@@ -6,8 +6,8 @@
   ],
   "added": [],
   "live": {
-    "on": true,
-    "ended": false,
+    "on": false,
+    "ended": true,
     "title": "Evening Mass Prayer",
     "host": "The sanctuary",
     "youtubeId": "sdeKX8xcaEY",
