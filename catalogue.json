@@ -2,10 +2,39 @@
   "autoPublish": true,
   "featuredId": "desk-pbqaf27zWjI",
   "hiddenIds": [
-    "desk-EdXZD7YSVJ0",
     "5DL5LWQsZiE"
   ],
   "added": [
+    {
+      "id": "desk-qEA66M46jX4",
+      "title": "How To See New Things In The New Year",
+      "host": "The media desk",
+      "category": "sermons",
+      "minutes": 0,
+      "views": 0,
+      "trending": 100,
+      "uploaded": "2026-11-01",
+      "summary": "Published from the Roadmap TV console.",
+      "youtubeId": "qEA66M46jX4",
+      "source": "console",
+      "recommended": true,
+      "reason": "Published by the desk"
+    },
+    {
+      "id": "desk-EPhuJsRMK2A",
+      "title": "Use Your Mouth To Change Your Life",
+      "host": "The media desk",
+      "category": "sermons",
+      "minutes": 0,
+      "views": 0,
+      "trending": 100,
+      "uploaded": "2026-11-01",
+      "summary": "Published from the Roadmap TV console.",
+      "youtubeId": "EPhuJsRMK2A",
+      "source": "console",
+      "recommended": true,
+      "reason": "Published by the desk"
+    },
     {
       "id": "desk-EdXZD7YSVJ0",
       "title": "The Secret Of Living A Life Of Victory  | Apostle David Sermon",
