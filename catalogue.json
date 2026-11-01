@@ -6,8 +6,8 @@
   ],
   "added": [],
   "live": {
-    "on": false,
-    "ended": true,
+    "on": true,
+    "ended": false,
     "title": "Sunday Service",
     "host": "The sanctuary",
     "youtubeId": "1yPnMejFW3k",
