@@ -4,10 +4,26 @@
   "hiddenIds": [
     "5DL5LWQsZiE"
   ],
-  "added": [],
+  "added": [
+    {
+      "id": "live-replay-1yPnMejFW3k",
+      "title": "Sunday Service",
+      "host": "The sanctuary",
+      "category": "mass-prayer",
+      "minutes": 0,
+      "views": 0,
+      "trending": 120,
+      "uploaded": "2026-11-01",
+      "summary": "Join from wherever you are. If data is thin, listen only.",
+      "youtubeId": "1yPnMejFW3k",
+      "source": "console",
+      "recommended": true,
+      "reason": "Live replay"
+    }
+  ],
   "live": {
-    "on": true,
-    "ended": false,
+    "on": false,
+    "ended": true,
     "title": "Sunday Service",
     "host": "The sanctuary",
     "youtubeId": "1yPnMejFW3k",
