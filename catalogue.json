@@ -1733,34 +1733,6 @@
       "place": "Open ground",
       "detail": "Three nights. Doors at 4. The word at 6. The media desk will stream each night in full, and the altar call will not be cut to fit a replay.",
       "featured": true
-    },
-    {
-      "id": "sunday-house",
-      "when": "Every Sunday",
-      "title": "Mass prayer and the word",
-      "place": "Sanctuary",
-      "detail": "Dawn watch, morning service, and evening mass prayer. All three are carried on Roadmap TV."
-    },
-    {
-      "id": "thursday-healing",
-      "when": "Every Thursday",
-      "title": "Healing and deliverance night",
-      "place": "Sanctuary",
-      "detail": "Teaching first, then prayer. The ministry team remains after the stream ends."
-    },
-    {
-      "id": "water-saturday",
-      "when": "First Saturday",
-      "title": "Anointing water service",
-      "place": "Lower hall",
-      "detail": "Prayer over the water, then distribution. Homes that cannot attend may ask the desk to keep a bottle."
-    },
-    {
-      "id": "partners-breakfast",
-      "when": "12 October 2026",
-      "title": "Partners' breakfast",
-      "place": "The lounge",
-      "detail": "A report on the quarter, prayer for the crusade, and one teaching that is not put on the public stream."
     }
   ],
   "updates": [
