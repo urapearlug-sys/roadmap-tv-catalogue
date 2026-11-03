@@ -2,6 +2,7 @@
   "autoPublish": true,
   "featuredId": "3CI1HCIV79g",
   "hiddenIds": [
+    "live-replay-1yPnMejFW3k",
     "desk-67vwqh1LryE",
     "5DL5LWQsZiE"
   ],
@@ -2573,69 +2574,17 @@
   ],
   "threads": [
     {
-      "id": "desk-1",
+      "id": "7e79a202-a90d-4032-b13b-21e4ed8ac1e6",
       "from": "Prayer Desk",
-      "title": "We are holding Wednesday’s names",
-      "preview": "If you sent a name for healing night, it was read.",
-      "time": "Today",
+      "title": "Welcome to the desk",
+      "preview": "Write whenever you need prayer. The house is listening.",
+      "time": "1h ago",
       "unread": true,
+      "unreadDesk": false,
       "body": [
         {
-          "text": "If you sent a name for Thursday’s healing night, it was read in the room and prayed for once."
-        },
-        {
-          "text": "You do not need to send it again unless something has changed. If it has, reply here and a person will see it."
-        },
-        {
-          "text": "This preview uses sample messages. Nothing here has gone to a real desk yet."
-        }
-      ]
-    },
-    {
-      "id": "sanctuary-1",
-      "from": "Sanctuary",
-      "title": "Evening mass prayer is on air",
-      "preview": "Come in when you can. The door stays open.",
-      "time": "Now",
-      "unread": true,
-      "body": [
-        {
-          "text": "Evening mass prayer is live from the sanctuary."
-        },
-        {
-          "text": "If you only have a little data, choose Listen only. You will still be in the room."
-        }
-      ]
-    },
-    {
-      "id": "care-1",
-      "from": "Partner Care",
-      "title": "The September note is ready",
-      "preview": "A short report for people who carry this house.",
-      "time": "Sun",
-      "unread": false,
-      "body": [
-        {
-          "text": "September’s partner note is a sample in this preview: the clinic saw its Saturday patients, the education purse paid three quiet fees, and the crusade ground is confirmed."
-        },
-        {
-          "text": "In the real app, this note is written by the church, not generated as filler."
-        }
-      ]
-    },
-    {
-      "id": "events-1",
-      "from": "Events",
-      "title": "City Crusade, 3–5 October",
-      "preview": "Tell the desk if you need a seat kept.",
-      "time": "Fri",
-      "unread": false,
-      "body": [
-        {
-          "text": "The city crusade is three nights on the open ground, 3–5 October."
-        },
-        {
-          "text": "Streaming will run the full night. If you are coming in person and need a seat kept, write to the events desk."
+          "text": "Write whenever you need prayer. The house is listening. Replies from the desk will appear in this same conversation.",
+          "mine": false
         }
       ]
     }
@@ -2693,5 +2642,31 @@
     "",
     "",
     ""
+  ],
+  "podcasts": [
+    {
+      "id": "podcast-word-road",
+      "title": "The Word on the Road",
+      "host": "Apostle David",
+      "minutes": 42,
+      "uploaded": "2026-10-12",
+      "summary": "A teaching podcast for the journey — Scripture, clarity, and a call to walk in holiness."
+    },
+    {
+      "id": "podcast-prayer-line",
+      "title": "Prayer Line Conversations",
+      "host": "The prayer desk",
+      "minutes": 35,
+      "uploaded": "2026-10-05",
+      "summary": "Stories and counsel from the prayer line, kept as audio for listening at home or on the way."
+    },
+    {
+      "id": "podcast-faith-tools",
+      "title": "Faith Tools Briefing",
+      "host": "Roadmap Ministry International",
+      "minutes": 28,
+      "uploaded": "2026-09-28",
+      "summary": "Short episodes that equip believers with practical faith tools from the house."
+    }
   ]
 }
