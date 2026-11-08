@@ -2514,13 +2514,13 @@
     }
   ],
   "live": {
-    "on": true,
-    "ended": false,
-    "title": "Live Sunday Service 8 November 2026",
-    "host": "Roadmap Ministry International",
-    "youtubeId": "https://www.youtube.com/live/hZDYZjoghsY?si=C19jxDNdJGGPUVyQ",
+    "on": false,
+    "ended": true,
+    "title": "Sunday Service",
+    "host": "The sanctuary",
+    "youtubeId": "hZDYZjoghsY",
     "detail": "Join from wherever you are. If data is thin, listen only.",
-    "when": "08:30"
+    "when": "19:00"
   },
   "events": [
     {
@@ -2679,7 +2679,7 @@
     "",
     "",
     "_roWzYxZvVo",
-    "desk-qN3M3j6M4mQ",
+    "",
     "",
     "",
     "",
