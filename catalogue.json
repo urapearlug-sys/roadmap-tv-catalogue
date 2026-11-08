@@ -2514,13 +2514,13 @@
     }
   ],
   "live": {
-    "on": false,
-    "ended": true,
-    "title": "Sunday Service",
-    "host": "The sanctuary",
-    "youtubeId": "1yPnMejFW3k",
+    "on": true,
+    "ended": false,
+    "title": "Live Sunday Service 8 November 2026",
+    "host": "Roadmap Ministry International",
+    "youtubeId": "https://www.youtube.com/live/hZDYZjoghsY?si=C19jxDNdJGGPUVyQ",
     "detail": "Join from wherever you are. If data is thin, listen only.",
-    "when": "19:00"
+    "when": "08:30"
   },
   "events": [
     {
@@ -2574,12 +2574,57 @@
   ],
   "threads": [
     {
+      "id": "df96bc60-1f9a-44c4-ba29-154fb8935cfd",
+      "from": "Events",
+      "title": "Keep me a seat · City Crusade",
+      "preview": "Please keep me a seat for City Crusade (3–5 October 2026).",
+      "time": "4d ago",
+      "unread": false,
+      "unreadDesk": true,
+      "body": [
+        {
+          "text": "Please keep me a seat for City Crusade (3–5 October 2026).",
+          "mine": true
+        }
+      ]
+    },
+    {
+      "id": "40302ddb-912b-4858-b0bf-9f694da7740f",
+      "from": "Events",
+      "title": "Keep me a seat · City Crusade",
+      "preview": "Please keep me a seat for City Crusade (3–5 October 2026).",
+      "time": "4d ago",
+      "unread": false,
+      "unreadDesk": true,
+      "body": [
+        {
+          "text": "Please keep me a seat for City Crusade (3–5 October 2026).",
+          "mine": true
+        }
+      ]
+    },
+    {
+      "id": "d0ac64ca-b04a-4ab6-9fdd-60a907195ce0",
+      "from": "Events",
+      "title": "Keep me a seat · City Crusade",
+      "preview": "Please keep me a seat for City Crusade (3–5 October 2026).",
+      "time": "4d ago",
+      "unread": false,
+      "unreadDesk": true,
+      "body": [
+        {
+          "text": "Please keep me a seat for City Crusade (3–5 October 2026).",
+          "mine": true
+        }
+      ]
+    },
+    {
       "id": "7e79a202-a90d-4032-b13b-21e4ed8ac1e6",
       "from": "Prayer Desk",
       "title": "Welcome to the desk",
       "preview": "Write whenever you need prayer. The house is listening.",
-      "time": "1h ago",
-      "unread": true,
+      "time": "4d ago",
+      "unread": false,
       "unreadDesk": false,
       "body": [
         {
@@ -2649,24 +2694,24 @@
       "title": "The Word on the Road",
       "host": "Apostle David",
       "minutes": 42,
-      "uploaded": "2026-10-12",
-      "summary": "A teaching podcast for the journey — Scripture, clarity, and a call to walk in holiness."
+      "summary": "A teaching podcast for the journey — Scripture, clarity, and a call to walk in holiness.",
+      "uploaded": "2026-10-12"
     },
     {
       "id": "podcast-prayer-line",
       "title": "Prayer Line Conversations",
       "host": "The prayer desk",
       "minutes": 35,
-      "uploaded": "2026-10-05",
-      "summary": "Stories and counsel from the prayer line, kept as audio for listening at home or on the way."
+      "summary": "Stories and counsel from the prayer line, kept as audio for listening at home or on the way.",
+      "uploaded": "2026-10-05"
     },
     {
       "id": "podcast-faith-tools",
       "title": "Faith Tools Briefing",
       "host": "Roadmap Ministry International",
       "minutes": 28,
-      "uploaded": "2026-09-28",
-      "summary": "Short episodes that equip believers with practical faith tools from the house."
+      "summary": "Short episodes that equip believers with practical faith tools from the house.",
+      "uploaded": "2026-09-28"
     }
   ]
 }
