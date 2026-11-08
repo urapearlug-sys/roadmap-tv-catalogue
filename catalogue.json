@@ -2514,8 +2514,8 @@
     }
   ],
   "live": {
-    "on": false,
-    "ended": true,
+    "on": true,
+    "ended": false,
     "title": "Sunday Service",
     "host": "The sanctuary",
     "youtubeId": "hZDYZjoghsY",
