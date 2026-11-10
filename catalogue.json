@@ -8,6 +8,21 @@
   ],
   "added": [
     {
+      "id": "desk-ml8-jF2b2Yo",
+      "title": "If You Want To Be Great",
+      "host": "The media desk",
+      "category": "sermons",
+      "minutes": 0,
+      "views": 0,
+      "trending": 100,
+      "uploaded": "2026-11-10",
+      "summary": "Published from the Roadmap TV console.",
+      "youtubeId": "ml8-jF2b2Yo",
+      "source": "console",
+      "recommended": true,
+      "reason": "Sermon of the week"
+    },
+    {
       "id": "desk-qN3M3j6M4mQ",
       "title": "Is Your Gift Bigger Than Your Character?",
       "host": "The media desk",
@@ -2574,11 +2589,56 @@
   ],
   "threads": [
     {
+      "id": "7e79a202-a90d-4032-b13b-21e4ed8ac1e6",
+      "from": "Prayer Desk",
+      "title": "Welcome to the desk",
+      "preview": "Write whenever you need prayer. The house is listening.",
+      "time": "15h ago",
+      "unread": false,
+      "unreadDesk": false,
+      "body": [
+        {
+          "text": "Write whenever you need prayer. The house is listening. Replies from the desk will appear in this same conversation.",
+          "mine": false
+        }
+      ]
+    },
+    {
+      "id": "d0ac64ca-b04a-4ab6-9fdd-60a907195ce0",
+      "from": "Events",
+      "title": "Keep me a seat · City Crusade",
+      "preview": "Please keep me a seat for City Crusade (3–5 October 2026).",
+      "time": "15h ago",
+      "unread": false,
+      "unreadDesk": true,
+      "body": [
+        {
+          "text": "Please keep me a seat for City Crusade (3–5 October 2026).",
+          "mine": true
+        }
+      ]
+    },
+    {
+      "id": "14d0c35e-a0b6-4cd0-9306-0c50e47c4a89",
+      "from": "Partner Care",
+      "title": "A word for Partner Care",
+      "preview": "I would like to talk about standing with the house as a partner. Please tell me what the church has set, and how the gift is used.",
+      "time": "15h ago",
+      "unread": false,
+      "unreadDesk": true,
+      "body": [
+        {
+          "text": "I would like to talk about standing with the house as a partner. Please tell me what the church has set, and how the gift is used.",
+          "mine": true
+        }
+      ]
+    },
+    {
       "id": "df96bc60-1f9a-44c4-ba29-154fb8935cfd",
       "from": "Events",
       "title": "Keep me a seat · City Crusade",
       "preview": "Please keep me a seat for City Crusade (3–5 October 2026).",
-      "time": "4d ago",
+      "time": "6d ago",
       "unread": false,
       "unreadDesk": true,
       "body": [
@@ -2593,43 +2653,13 @@
       "from": "Events",
       "title": "Keep me a seat · City Crusade",
       "preview": "Please keep me a seat for City Crusade (3–5 October 2026).",
-      "time": "4d ago",
+      "time": "6d ago",
       "unread": false,
       "unreadDesk": true,
       "body": [
         {
           "text": "Please keep me a seat for City Crusade (3–5 October 2026).",
           "mine": true
-        }
-      ]
-    },
-    {
-      "id": "d0ac64ca-b04a-4ab6-9fdd-60a907195ce0",
-      "from": "Events",
-      "title": "Keep me a seat · City Crusade",
-      "preview": "Please keep me a seat for City Crusade (3–5 October 2026).",
-      "time": "4d ago",
-      "unread": false,
-      "unreadDesk": true,
-      "body": [
-        {
-          "text": "Please keep me a seat for City Crusade (3–5 October 2026).",
-          "mine": true
-        }
-      ]
-    },
-    {
-      "id": "7e79a202-a90d-4032-b13b-21e4ed8ac1e6",
-      "from": "Prayer Desk",
-      "title": "Welcome to the desk",
-      "preview": "Write whenever you need prayer. The house is listening.",
-      "time": "4d ago",
-      "unread": false,
-      "unreadDesk": false,
-      "body": [
-        {
-          "text": "Write whenever you need prayer. The house is listening. Replies from the desk will appear in this same conversation.",
-          "mine": false
         }
       ]
     }
