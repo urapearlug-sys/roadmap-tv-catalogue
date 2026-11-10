@@ -8,6 +8,21 @@
   ],
   "added": [
     {
+      "id": "live-replay-hZDYZjoghsY",
+      "title": "Sunday Service",
+      "host": "The sanctuary",
+      "category": "mass-prayer",
+      "minutes": 0,
+      "views": 0,
+      "trending": 120,
+      "uploaded": "2026-11-10",
+      "summary": "Join from wherever you are. If data is thin, listen only.",
+      "youtubeId": "hZDYZjoghsY",
+      "source": "console",
+      "recommended": true,
+      "reason": "Live replay"
+    },
+    {
       "id": "desk-ml8-jF2b2Yo",
       "title": "If You Want To Be Great",
       "host": "The media desk",
@@ -2529,8 +2544,8 @@
     }
   ],
   "live": {
-    "on": true,
-    "ended": false,
+    "on": false,
+    "ended": true,
     "title": "Sunday Service",
     "host": "The sanctuary",
     "youtubeId": "hZDYZjoghsY",
@@ -2593,7 +2608,7 @@
       "from": "Prayer Desk",
       "title": "Welcome to the desk",
       "preview": "Write whenever you need prayer. The house is listening.",
-      "time": "15h ago",
+      "time": "23h ago",
       "unread": false,
       "unreadDesk": false,
       "body": [
@@ -2608,7 +2623,7 @@
       "from": "Events",
       "title": "Keep me a seat · City Crusade",
       "preview": "Please keep me a seat for City Crusade (3–5 October 2026).",
-      "time": "15h ago",
+      "time": "23h ago",
       "unread": false,
       "unreadDesk": true,
       "body": [
@@ -2623,7 +2638,7 @@
       "from": "Partner Care",
       "title": "A word for Partner Care",
       "preview": "I would like to talk about standing with the house as a partner. Please tell me what the church has set, and how the gift is used.",
-      "time": "15h ago",
+      "time": "23h ago",
       "unread": false,
       "unreadDesk": true,
       "body": [
