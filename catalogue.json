@@ -2545,13 +2545,13 @@
     }
   ],
   "live": {
-    "on": false,
-    "ended": true,
-    "title": "Sunday Service",
-    "host": "The sanctuary",
-    "youtubeId": "hZDYZjoghsY",
-    "detail": "Join from wherever you are. If data is thin, listen only.",
-    "when": "19:00"
+    "on": true,
+    "ended": false,
+    "title": "Sunday Service | 15 November 2026",
+    "host": "Roadmap Ministry international",
+    "youtubeId": "https://www.youtube.com/live/TmdWjE8mFhM?si=fUuZ9nDuSREOifgt",
+    "detail": "Roadmap Ministry International LIVE Sunday Service with Apostle David - 15.11.2026\n\nIf you would like to share your testimony or visit the Roadmap Ministry International send us an e-mail at info@roadmapministry.org",
+    "when": "08:30"
   },
   "events": [
     {
@@ -2605,26 +2605,11 @@
   ],
   "threads": [
     {
-      "id": "7e79a202-a90d-4032-b13b-21e4ed8ac1e6",
-      "from": "Prayer Desk",
-      "title": "Welcome to the desk",
-      "preview": "Write whenever you need prayer. The house is listening.",
-      "time": "23h ago",
-      "unread": false,
-      "unreadDesk": false,
-      "body": [
-        {
-          "text": "Write whenever you need prayer. The house is listening. Replies from the desk will appear in this same conversation.",
-          "mine": false
-        }
-      ]
-    },
-    {
-      "id": "d0ac64ca-b04a-4ab6-9fdd-60a907195ce0",
+      "id": "60d4661b-0aad-4ea7-96ef-a611e477f5e6",
       "from": "Events",
       "title": "Keep me a seat · City Crusade",
       "preview": "Please keep me a seat for City Crusade (3–5 October 2026).",
-      "time": "23h ago",
+      "time": "1d ago",
       "unread": false,
       "unreadDesk": true,
       "body": [
@@ -2635,11 +2620,64 @@
       ]
     },
     {
+      "id": "6fabbe6e-c989-4e32-9acf-69fe826814f8",
+      "from": "Prayer Desk",
+      "title": "A prayer request",
+      "preview": "Please pray for strength.",
+      "time": "1d ago",
+      "unread": false,
+      "unreadDesk": true,
+      "body": [
+        {
+          "text": "Please pray for strength.",
+          "mine": true
+        }
+      ]
+    },
+    {
+      "id": "3287f57e-67b1-4342-9529-dba440550364",
+      "from": "Events",
+      "title": "Keep me a seat · City Crusade",
+      "preview": "Thank you",
+      "time": "1d ago",
+      "unread": false,
+      "unreadDesk": true,
+      "body": [
+        {
+          "text": "Please keep me a seat for City Crusade (3–5 October 2026).",
+          "mine": true
+        },
+        {
+          "text": "Thank you",
+          "mine": true
+        }
+      ]
+    },
+    {
+      "id": "29a0603e-af7e-41e0-9e2e-a70a1ff12249",
+      "from": "Events",
+      "title": "Keep me a seat · City Crusade",
+      "preview": "Thank you, see you there!",
+      "time": "1d ago",
+      "unread": false,
+      "unreadDesk": true,
+      "body": [
+        {
+          "text": "Please keep me a seat for City Crusade (3–5 October 2026).",
+          "mine": true
+        },
+        {
+          "text": "Thank you, see you there!",
+          "mine": true
+        }
+      ]
+    },
+    {
       "id": "14d0c35e-a0b6-4cd0-9306-0c50e47c4a89",
       "from": "Partner Care",
       "title": "A word for Partner Care",
       "preview": "I would like to talk about standing with the house as a partner. Please tell me what the church has set, and how the gift is used.",
-      "time": "23h ago",
+      "time": "1d ago",
       "unread": false,
       "unreadDesk": true,
       "body": [
@@ -2650,11 +2688,45 @@
       ]
     },
     {
+      "id": "d0ac64ca-b04a-4ab6-9fdd-60a907195ce0",
+      "from": "Events",
+      "title": "Keep me a seat · City Crusade",
+      "preview": "Please keep me a seat for City Crusade (3–5 October 2026).",
+      "time": "1d ago",
+      "unread": false,
+      "unreadDesk": true,
+      "body": [
+        {
+          "text": "Please keep me a seat for City Crusade (3–5 October 2026).",
+          "mine": true
+        }
+      ]
+    },
+    {
+      "id": "7e79a202-a90d-4032-b13b-21e4ed8ac1e6",
+      "from": "Prayer Desk",
+      "title": "Welcome to the desk",
+      "preview": "Please pray for my family",
+      "time": "1d ago",
+      "unread": false,
+      "unreadDesk": true,
+      "body": [
+        {
+          "text": "Write whenever you need prayer. The house is listening. Replies from the desk will appear in this same conversation.",
+          "mine": false
+        },
+        {
+          "text": "Please pray for my family",
+          "mine": true
+        }
+      ]
+    },
+    {
       "id": "df96bc60-1f9a-44c4-ba29-154fb8935cfd",
       "from": "Events",
       "title": "Keep me a seat · City Crusade",
       "preview": "Please keep me a seat for City Crusade (3–5 October 2026).",
-      "time": "6d ago",
+      "time": "11d ago",
       "unread": false,
       "unreadDesk": true,
       "body": [
@@ -2669,7 +2741,7 @@
       "from": "Events",
       "title": "Keep me a seat · City Crusade",
       "preview": "Please keep me a seat for City Crusade (3–5 October 2026).",
-      "time": "6d ago",
+      "time": "11d ago",
       "unread": false,
       "unreadDesk": true,
       "body": [
